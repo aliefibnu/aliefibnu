@@ -21,7 +21,7 @@ A passionate coder and futsal enthusiast from **Indonesia (WIB)**. i'm building 
 
 ## 🛠️ Skills & Technologies
 
-### Languages : ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+### Languages : ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Frontend Frameworks : ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express.js View Engine](https://img.shields.io/badge/Express.js%20View%20Engine-000000?style=flat-square&logo=express&logoColor=white) ![Laravel Blade](https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
