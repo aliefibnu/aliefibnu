@@ -31,8 +31,7 @@ A passionate coder and futsal enthusiast from **Indonesia (WIB)**. i'm building 
 ![Express.js View Engine](https://img.shields.io/badge/Express.js%20View%20Engine-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel Blade](https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### Backend Frameworks
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+### Backend Frameworks : ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP Native](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
