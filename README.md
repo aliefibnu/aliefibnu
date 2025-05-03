@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alief Ibnu!
 
-![Header Banner]([https://via.placeholder.com/1200x300/FFF3E0/000000?text=Welcome+to+My+GitHub+Profile!+Let's+Code+&+Score+Goals!%20⚽💻](https://i.pinimg.com/600x315/48/65/70/4865705adabde0e9e02f630c295f1f42.jpg))
+![Header Banner]([https://i.pinimg.com/600x315/48/65/70/4865705adabde0e9e02f630c295f1f42.jpg])
 
 A passionate coder and futsal enthusiast from **Indonesia (WIB)**. i'm building innovative solutions in the tech world. 
 #### Let's Code & Score Goals ⚽⚽ 
