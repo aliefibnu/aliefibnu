@@ -52,7 +52,7 @@ Here’s what I bring to the table:
 ---
 
 ## 🚀 Featured Project
-### [Laravel Traveling](https://github.com/yourusername/laravel-traveling)
+### [Laravel Traveling](https://github.com/aliefibnu/laravel-traveling)
 A Laravel-based web application designed to inspire and plan your travel adventures. Features include user authentication, itinerary management, and a sleek UI built with Laravel Blade.
 
 *Check out the repository for more details!*
@@ -68,8 +68,8 @@ A Laravel-based web application designed to inspire and plan your travel adventu
 ---
 
 ## 📊 GitHub Stats
-![Alief's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Alief's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliefibnu&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliefibnu&layout=compact&theme=radical&hide_border=true)
 
 ---
 
