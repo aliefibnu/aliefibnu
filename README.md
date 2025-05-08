@@ -21,15 +21,31 @@ A passionate coder and futsal enthusiast from **Indonesia (WIB)**. i'm building 
 
 ## 🛠️ Skills & Technologies
 
-### Languages : ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+### Languages : 
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Frontend Frameworks : ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express.js View Engine](https://img.shields.io/badge/Express.js%20View%20Engine-000000?style=flat-square&logo=express&logoColor=white) ![Laravel Blade](https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+### Frontend Frameworks : 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Express.js View Engine](https://img.shields.io/badge/Express.js%20View%20Engine-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel Blade](https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### Backend Frameworks : ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP Native](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat-square&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+### Backend Frameworks : 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+![PHP Native](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat-square&logo=php&logoColor=white) 
 
-### Full-Stack : ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP Native](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat-square&logo=php&logoColor=white)
+### Full-Stack : 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+![PHP Native](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Cross-Platform : ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
+### Cross-Platform : 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
+![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ---
 <!---->
