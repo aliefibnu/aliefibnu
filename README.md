@@ -60,7 +60,7 @@ A passionate coder and futsal enthusiast from **Indonesia (WIB)**. i'm building 
 ## 📊 GitHub Stats
 ![Alief's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliefibnu&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliefibnu&layout=compact&theme=radical&hide_border=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=aliefibnu&theme=radical&row=1&column=3&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=aliefibnu&theme=radical&row=1&column=7&no-frame=false)
 
 ---
 
