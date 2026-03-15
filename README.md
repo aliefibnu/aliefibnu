@@ -12,11 +12,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Tentang Saya
 
-I'm **Alief Ibnu Hamdani**, a student of **SMK Negeri 7 Batam** majoring in **Software Engineering (RPL)** 🇮🇩, focused on **Fullstack Web Development** and **Backend Development**. I have hands-on experience building modern web applications and leveraging serverless services like Supabase. Comfortable developing API-based systems, JWT authentication, and relational databases — with a strong interest in building systems that are modern, efficient, and scalable.
+Halo! Saya **Alief Ibnu Hamdani**, siswa **SMK Negeri 7 Batam** jurusan **Rekayasa Perangkat Lunak (RPL)** 🇮🇩 yang berfokus pada **Fullstack Web Development** dan **Backend Development**. Saya memiliki pengalaman langsung dalam membangun aplikasi web modern serta memanfaatkan layanan serverless seperti Supabase. Terbiasa mengembangkan sistem berbasis API, autentikasi JWT, dan database relasional — dengan minat kuat dalam membangun sistem yang modern, efisien, dan scalable.
 
-When I'm not coding, you'll find me on the futsal field ⚽ — teamwork on the pitch, teamwork in the codebase.
+Kalau lagi tidak coding, saya ada di lapangan futsal ⚽ — kerja sama di lapangan, kerja sama di codebase.
 
 ```ts
 const aliefIbnuHamdani = {
@@ -32,9 +32,9 @@ const aliefIbnuHamdani = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Teknologi yang Dikuasai
 
-### Languages & Markup
+### Bahasa Pemrograman & Markup
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,7 +42,7 @@ const aliefIbnuHamdani = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Frontend
+### Pengembangan Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
@@ -51,7 +51,7 @@ const aliefIbnuHamdani = {
 ![Laravel Blade](https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Express View Engine](https://img.shields.io/badge/Express%20View%20Engine-000000?style=flat-square&logo=express&logoColor=white)
 
-### Backend
+### Pengembangan Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Hono.js](https://img.shields.io/badge/Hono.js-E36002?style=flat-square&logo=hono&logoColor=white)
@@ -63,31 +63,31 @@ const aliefIbnuHamdani = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Mobile & Cross-Platform
+### Mobile & Lintas Platform
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
 
-### Tools & DevOps
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![API Development](https://img.shields.io/badge/API%20Development-REST-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## 💼 What I Bring to the Table
+## 💼 Apa yang Saya Tawarkan
 
-| 🔧 Skill Area | 💡 What I Do |
+| 🔧 Bidang | 💡 Yang Saya Lakukan |
 |---|---|
-| **Fullstack Web Development** | End-to-end web apps from UI to database using Next.js, Laravel, Vue/Nuxt |
-| **Backend & API Design** | RESTful APIs with NestJS, Express, Hono — including JWT auth & middleware |
-| **Database Management** | Relational databases (MySQL, PostgreSQL) & serverless (Supabase) |
-| **Mobile Development** | Cross-platform apps with Flutter & Dart |
-| **Code Quality** | Modular, maintainable, and scalable code structure |
-| **Deployment** | Deploy & ship to production using Git, Vercel, and CI/CD pipelines |
+| **Fullstack Web Development** | Membangun aplikasi web end-to-end dari UI hingga database menggunakan Next.js, Laravel, Vue/Nuxt |
+| **Backend & Desain API** | Membangun RESTful API dengan NestJS, Express, Hono — termasuk autentikasi JWT & middleware |
+| **Manajemen Database** | Database relasional (MySQL, PostgreSQL) & serverless (Supabase) |
+| **Pengembangan Mobile** | Aplikasi lintas platform dengan Flutter & Dart |
+| **Kualitas Kode** | Struktur kode yang modular, mudah dipelihara, dan scalable |
+| **Deployment** | Deploy ke production menggunakan Git, Vercel, dan alur CI/CD |
 
 ---
 
-## 🏆 Achievements
+## 🏆 Pencapaian
 
 - 🥇 **Peringkat 1 Kelas** selama 2 semester berturut-turut — *2024 & 2025*
 - 🥈 **Peringkat 2 Kelas** selama 1 semester — *2024*
@@ -96,7 +96,7 @@ const aliefIbnuHamdani = {
 
 ---
 
-## 📚 Training & Professional Development
+## 📚 Pelatihan & Pengembangan Diri
 
 ### 🤖 Pelatihan Leanbot — 2025
 > Mengikuti pelatihan *teaching factory* untuk proses pengembangan dan pemrograman **Robot Leanbot**. Pelatihan ini mencakup logika kontrol robot dan proses manufaktur berbasis teknologi.
@@ -106,14 +106,14 @@ const aliefIbnuHamdani = {
 
 ---
 
-## 🌐 Organization & Leadership
+## 🌐 Organisasi & Kepemimpinan
 
 ### 📖 Duta Literasi — SMK Negeri 7 Batam
 > Berperan sebagai penggerak budaya baca-tulis di lingkungan sekolah. Mengorganisir program kreatif untuk meningkatkan minat literasi siswa, serta menjadi jembatan antara siswa dan sumber belajar yang relevan.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistik GitHub
 
 <div align="center">
 
@@ -136,15 +136,15 @@ const aliefIbnuHamdani = {
 
 ---
 
-## 🤝 Let's Work Together
+## 🤝 Mari Berkolaborasi
 
-I'm actively seeking **internship opportunities, full-time roles, or freelance collaborations**. If you're looking for a developer who is dedicated, fast to learn, and passionate about building quality software — let's connect!
+Saya aktif mencari **kesempatan magang, pekerjaan penuh waktu, atau kolaborasi freelance**. Jika Anda mencari developer yang berdedikasi, cepat belajar, dan passionate dalam membangun software berkualitas — mari terhubung!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-volterotech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volterotech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aliefibnu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliefibnu)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support%20My%20Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Dukung%20Saya-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
 </div>
 
@@ -154,7 +154,7 @@ I'm actively seeking **internship opportunities, full-time roles, or freelance c
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-**Built with 💻 consistency and ⚽ team spirit · Indonesia 🇮🇩**
+**Dibangun dengan 💻 konsistensi dan semangat ⚽ · Indonesia 🇮🇩**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
