@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;TypeScript+%7C+Next.js+%7C+NestJS+%7C+Flutter;Crafting+clean%2C+scalable+solutions;Based+in+Indonesia+🇮🇩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+%26+Mobile+Developer;Next.js+%7C+NestJS+%7C+Laravel+%7C+Flutter;Building+scalable%2C+modern+web+systems;API+Design+%7C+JWT+Auth+%7C+Supabase;SMK+Negeri+7+Batam+%7C+RPL+%F0%9F%87%AE%F0%9F%87%A9)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,17 +14,18 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Alief Ibnu**, a passionate Full-Stack Developer from **Batam, Indonesia** 🇮🇩 with hands-on experience building web and mobile applications from the ground up. I enjoy solving real-world problems through clean code, solid architecture, and great user experience.
+I'm **Alief Ibnu Hamdani**, a student of **SMK Negeri 7 Batam** majoring in **Software Engineering (RPL)** 🇮🇩, focused on **Fullstack Web Development** and **Backend Development**. I have hands-on experience building modern web applications and leveraging serverless services like Supabase. Comfortable developing API-based systems, JWT authentication, and relational databases — with a strong interest in building systems that are modern, efficient, and scalable.
 
 When I'm not coding, you'll find me on the futsal field ⚽ — teamwork on the pitch, teamwork in the codebase.
 
 ```ts
-const aliefIbnu = {
-  role        : "Full-Stack Developer",
-  location    : "Indonesia 🇮🇩 (WIB / UTC+7)",
-  languages   : ["TypeScript", "JavaScript", "PHP", "Dart"],
-  focus       : ["Web Apps", "REST APIs", "Mobile Apps", "Clean Architecture"],
-  openTo      : ["Full-Time Roles", "Freelance Projects", "Collaboration"],
+const aliefIbnuHamdani = {
+  school      : "SMK Negeri 7 Batam — Rekayasa Perangkat Lunak (RPL)",
+  role        : "Fullstack Web & Backend Developer",
+  location    : "Batam, Indonesia 🇮🇩 (WIB / UTC+7)",
+  languages   : ["TypeScript", "JavaScript", "PHP", "Dart", "HTML", "CSS"],
+  interests   : ["REST APIs", "JWT Auth", "Serverless", "Clean Architecture"],
+  openTo      : ["Internship", "Full-Time Roles", "Freelance", "Collaboration"],
   contact     : "volterotech@gmail.com",
 };
 ```
@@ -33,27 +34,43 @@ const aliefIbnu = {
 
 ## 🛠️ Tech Stack
 
-### Languages
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+### Languages & Markup
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Laravel Blade](https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Express View Engine](https://img.shields.io/badge/Express%20View%20Engine-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Hono.js](https://img.shields.io/badge/Hono.js-E36002?style=flat-square&logo=hono&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP Native](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Mobile & Cross-Platform
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![API Development](https://img.shields.io/badge/API%20Development-REST-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
@@ -61,11 +78,38 @@ const aliefIbnu = {
 
 | 🔧 Skill Area | 💡 What I Do |
 |---|---|
-| **Full-Stack Development** | End-to-end web apps from UI to database |
-| **API Design** | RESTful APIs with NestJS & Express |
-| **Mobile Development** | Cross-platform apps with Flutter |
-| **Code Quality** | TypeScript-first, modular, maintainable code |
-| **Collaboration** | Git workflow, code reviews, team projects |
+| **Fullstack Web Development** | End-to-end web apps from UI to database using Next.js, Laravel, Vue/Nuxt |
+| **Backend & API Design** | RESTful APIs with NestJS, Express, Hono — including JWT auth & middleware |
+| **Database Management** | Relational databases (MySQL, PostgreSQL) & serverless (Supabase) |
+| **Mobile Development** | Cross-platform apps with Flutter & Dart |
+| **Code Quality** | Modular, maintainable, and scalable code structure |
+| **Deployment** | Deploy & ship to production using Git, Vercel, and CI/CD pipelines |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Peringkat 1 Kelas** selama 2 semester berturut-turut — *2024 & 2025*
+- 🥈 **Peringkat 2 Kelas** selama 1 semester — *2024*
+- 🏅 **Sertifikat Partisipasi** — Open Source Competition, Politeknik Negeri Batam — *2025*
+- 📋 **Sertifikat Kehadiran 100%** — Mata Pelajaran Kreatif, Inovasi, Kewirausahaan (KIK) — *2025*
+
+---
+
+## 📚 Training & Professional Development
+
+### 🤖 Pelatihan Leanbot — 2025
+> Mengikuti pelatihan *teaching factory* untuk proses pengembangan dan pemrograman **Robot Leanbot**. Pelatihan ini mencakup logika kontrol robot dan proses manufaktur berbasis teknologi.
+
+### 🛠️ Pelatihan Laravel — 2024
+> Mengikuti pelatihan intensif **Laravel Framework** bersama **PT. Pundi Mas Berjaya** selama 1 minggu penuh, mencakup pengembangan aplikasi web berbasis MVC, Eloquent ORM, dan autentikasi.
+
+---
+
+## 🌐 Organization & Leadership
+
+### 📖 Duta Literasi — SMK Negeri 7 Batam
+> Berperan sebagai penggerak budaya baca-tulis di lingkungan sekolah. Mengorganisir program kreatif untuk meningkatkan minat literasi siswa, serta menjadi jembatan antara siswa dan sumber belajar yang relevan.
 
 ---
 
@@ -94,7 +138,7 @@ const aliefIbnu = {
 
 ## 🤝 Let's Work Together
 
-I'm always open to exciting projects, job opportunities, and collaborations. Whether you're an HRD looking for a reliable developer or a fellow coder with a cool idea — let's talk!
+I'm actively seeking **internship opportunities, full-time roles, or freelance collaborations**. If you're looking for a developer who is dedicated, fast to learn, and passionate about building quality software — let's connect!
 
 <div align="center">
 
