@@ -18,7 +18,7 @@ Hi there! I'm **Alief Ibnu Hamdani** — a **Software Engineering (RPL)** studen
 
 My core focus lies in **Fullstack Web Development** and **Backend Architecture**. I specialize in designing and building scalable applications from scratch to production using modern ecosystems like **Angular**, **Astro**, **Next.js**, **NestJS**, **Hono**, **Laravel**, and **Supabase**.
 
-Beyond industrial software development, I actively sharpen my problem-solving skills through competitive programming and robotics — earning **2nd Place in the Riau Islands Provincial LKS (SaaS Web Development)** and becoming a **National Finalist at NATIONAL AIROC 2026**.
+Beyond industrial software development, I actively sharpen my problem-solving skills through competitive programming and robotics — earning **2nd Place in the Riau Islands Provincial LKS for High/Vocational Schools (SMA/SMK) in SaaS Web Development** and becoming a **National Finalist at NATIONAL AIROC 2026**.
 
 When I'm away from the codebase, you'll usually find me on the futsal court ⚽ or studying German (currently working toward B1 proficiency) — because to me, software engineering, team sports, and language share the exact same core principles: **communication, structure, and consistency.**
 
@@ -122,7 +122,7 @@ const aliefIbnuHamdani = {
 ## 🏆 Achievements & Competitions
 
 - 🏅 **National Finalist — NATIONAL AIROC 2026** — *National Autonomous Robotics Competition (Pythaverse Synapse City) — 2026*
-- 🥈 **2nd Place — LKS (Student Competency Competition) Riau Islands Province** — *SaaS Web Development Category — 2026*
+- 🥈 **2nd Place — LKS (Student Competency Competition) Riau Islands Province** — *High School / Vocational School Level (SMA/SMK), SaaS Web Development Category — 2026*
 - 🏅 **Participant — Open Source Competition (OSC)** — *CSS Battle Category, Politeknik Negeri Batam — 2025*
 - 🥇 **1st Rank in Class** for 2 consecutive semesters — *2024 & 2025*
 - 🥈 **2nd Rank in Class** for 1 semester — *2024*
