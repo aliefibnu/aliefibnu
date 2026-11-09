@@ -1,5 +1,13 @@
 <div align="center">
 
+![Visitor Count](https://komarev.com/ghpvc/?username=aliefibnu&label=Profile%20Views&color=0d1117&style=for-the-badge&labelColor=1a1b27)
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alief%20Ibnu%20Hamdani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Software%20Developer%20%7C%20Building%20with%20Purpose&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
@@ -156,14 +164,6 @@ const aliefIbnuHamdani = {
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliefibnu&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aliefibnu&label=Profile%20Views&color=0d1117&style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
